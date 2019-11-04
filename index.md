@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# YIZ.C 的游戏渲染日志
 
 OH FUCK
 
